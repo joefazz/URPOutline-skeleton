@@ -1,4 +1,4 @@
-# Outline Shader for Unity
+# Outline Shader for Unity URP
 Unity 2021.3 project source for skeleton [Outline Shader 
 Tutorial](https://fazz.dev/articles/urp-outline-shader) from the site 
 [fazz.dev](https://fazz.dev/).
